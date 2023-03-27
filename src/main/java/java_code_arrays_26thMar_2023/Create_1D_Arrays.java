@@ -15,6 +15,8 @@ public class Create_1D_Arrays {
 		
 		int[] c = new int[-3];
 		System.out.println(c.length);
+		int[] d = new int[-3];
+		System.out.println(c.length);
 	}
 
 }
